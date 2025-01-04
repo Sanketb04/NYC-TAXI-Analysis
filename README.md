@@ -26,17 +26,17 @@ This project demonstrates a complete data engineering pipeline using **Azure Dat
 -**Data Analytics**: Querying data in Azure Synapse Analytics for business insights.
 
 ## 🚀 How to Run the Project
-1.Clone this repository:
+**1**.Clone this repository:
  bash
  git clone  https://github.com/Sanketb04/NYC-TAXI-Analysis
-2. Set up the required Azure services:
+**2**. Set up the required Azure services:
 -Azure Blob Storage
 -Azure Data Factory
 -Azure Databricks
-3.Update connection strings and keys in the configuration files.
-4.Run the Azure Data Factory pipeline to ingest data.
-5.Execute Databricks notebooks for data transformation and Delta Lake integration.
-6.Analyze results in Azure Synapse Analytics.
+**3**.Update connection strings and keys in the configuration files.
+**4**.Run the Azure Data Factory pipeline to ingest data.
+**5**.Execute Databricks notebooks for data transformation and Delta Lake integration.
+**6**.Analyze results in Azure Synapse Analytics.
 
 ## 📘 Learning Outcomes
 -Building scalable, cloud-native data engineering pipelines.
