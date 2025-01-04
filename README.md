@@ -39,20 +39,20 @@ This project demonstrates a complete data engineering pipeline using **Azure Dat
 **6**.Analyze results in Azure Synapse Analytics.
 
 ## 📘 Learning Outcomes
--Building scalable, cloud-native data engineering pipelines.
--Hands-on experience with Azure Data Factory, Databricks, and Delta Lake.
--Effective orchestration and management of ETL workflows.
+**1**.Building scalable, cloud-native data engineering pipelines.
+**2**.Hands-on experience with Azure Data Factory, Databricks, and Delta Lake.
+**3**.Effective orchestration and management of ETL workflows.
 
 ## 📚 References and Resources
--Azure Data Factory Documentation
--Databricks Official Guide
--Delta Lake Documentation
--NYC Taxi Dataset: Link
+**1**.Azure Data Factory Documentation
+**2**.Databricks Official Guide
+**3**.Delta Lake Documentation
+**4**.NYC Taxi Dataset: Link - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 ## 🛠 Future Enhancements
--Implementing CI/CD for the pipeline.
--Adding more advanced analytics and visualizations.
--Optimizing pipeline performance for larger datasets.
+**1**.Implementing CI/CD for the pipeline.
+**2**.Adding more advanced analytics and visualizations.
+**3**.Optimizing pipeline performance for larger datasets.
 
 ##🌟 Connect
 If you found this project helpful or have suggestions, feel free to connect with me on LinkedIn!
