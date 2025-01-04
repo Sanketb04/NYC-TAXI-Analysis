@@ -26,9 +26,9 @@ This project demonstrates a complete data engineering pipeline using **Azure Dat
 -Data Analytics: Querying data in Azure Synapse Analytics for business insights.
 
 🚀 How to Run the Project
-Clone this repository:
-bash
-git clone  https://github.com/Sanketb04/NYC-TAXI-Analysis
+1.Clone this repository:
+ bash
+ git clone  https://github.com/Sanketb04/NYC-TAXI-Analysis
 
 2. Set up the required Azure services:
 -Azure Blob Storage
